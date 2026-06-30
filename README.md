@@ -17,11 +17,9 @@ The FastAPI backend (with interactive OpenAPI docs at `/docs`) runs locally — 
 
 ## Screenshots
 
-| UI | API docs |
-|----|----------|
-| `demo/ui.png` | `demo/api-docs.png` |
-
-_Add screenshots to `demo/` and they'll render here._
+| Streamlit UI | FastAPI docs (Swagger) |
+|:---:|:---:|
+| ![Streamlit UI](demo/ui.png) | ![API docs](demo/api-docs.png) |
 
 ## What it does
 
