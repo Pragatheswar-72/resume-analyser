@@ -1,7 +1,6 @@
 # Resume Analyser — RAG-powered Resume ↔ Job Match
 
-<!-- After pushing to GitHub, replace USER/REPO below to activate the badge. -->
-![CI](https://github.com/USER/REPO/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Pragatheswar-72/resume-analyser/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
