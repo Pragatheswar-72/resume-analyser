@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What vector search tools has the candidate used?",
+    "expected_keywords": ["FAISS", "Pinecone"],
+    "expected_answer": "FAISS and Pinecone."
+  },
+  {
+    "question": "Which web framework does the candidate use for building APIs?",
+    "expected_keywords": ["FastAPI"],
+    "expected_answer": "FastAPI (also Flask)."
+  },
+  {
+    "question": "How many monthly users did the chatbot serve?",
+    "expected_keywords": ["20,000", "20000"],
+    "expected_answer": "20,000 monthly users."
+  },
+  {
+    "question": "What testing framework does the candidate use?",
+    "expected_keywords": ["pytest"],
+    "expected_answer": "pytest."
+  },
+  {
+    "question": "Does the candidate have experience with Rust?",
+    "expected_keywords": [],
+    "expected_answer": "That information is not in the resume."
+  }
+]

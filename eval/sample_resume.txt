@@ -1,0 +1,29 @@
+Alex Carter
+Senior AI Engineer
+
+Summary
+AI engineer with 6 years of experience building and deploying machine
+learning and LLM-powered applications. Specialises in retrieval-augmented
+generation, vector search, and production ML services.
+
+Skills
+Languages: Python, SQL, TypeScript
+ML/AI: PyTorch, scikit-learn, sentence-transformers, RAG, prompt engineering
+Vector search: FAISS, Pinecone, embeddings
+Backend: FastAPI, Flask, REST APIs, Docker, Kubernetes
+Cloud: AWS (S3, Lambda, ECS), GCP
+Testing: pytest, unit and integration testing
+
+Experience
+Acme AI (2021-present) - Senior AI Engineer
+Built a retrieval-augmented chatbot over internal documentation using FAISS
+and sentence-transformers, serving 20,000 monthly users. Designed FastAPI
+microservices and containerised them with Docker for deployment on AWS ECS.
+Reduced average response latency by 40 percent through caching and batching.
+
+DataWorks (2018-2021) - Machine Learning Engineer
+Developed classification models in PyTorch and deployed them as REST APIs.
+Set up CI pipelines and wrote extensive pytest test suites.
+
+Education
+B.S. in Computer Science, State University, 2018

@@ -1,0 +1,13 @@
+streamlit
+pdfplumber
+sentence-transformers
+faiss-cpu
+google-generativeai
+python-dotenv
+numpy
+fastapi
+uvicorn[standard]
+python-multipart
+httpx
+pytest
+reportlab
