@@ -1,11 +1,15 @@
 # Resume Bullets & Talking Points — Resume Analyser
 
-> Replace `<LIVE_URL>` and `<GITHUB_URL>` once deployed. Pick the version that
-> fits your resume's space. Keep the metrics; recruiters scan for them.
+> Pick the version that fits your resume's space. Keep the metrics; recruiters
+> scan for them.
+>
+> - **Live app:** https://resume-analyser-rnnelecskssselehhqkshp.streamlit.app/
+> - **GitHub:** https://github.com/Pragatheswar-72/resume-analyser
 
 ## Project header (for the Projects section)
 
-**Resume Analyser — RAG-powered Resume ↔ Job Matching** · `<LIVE_URL>` · `<GITHUB_URL>`
+**Resume Analyser — RAG-powered Resume ↔ Job Matching**
+Live: resume-analyser-rnnelecskssselehhqkshp.streamlit.app · Code: github.com/Pragatheswar-72/resume-analyser
 *Python, FastAPI, FAISS, sentence-transformers, Google Gemini, Docker, Streamlit*
 
 ## Bullet options

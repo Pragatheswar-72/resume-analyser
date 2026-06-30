@@ -10,9 +10,10 @@ exact resume lines, so nothing is hallucinated.
 
 ## Live demo
 
-**App:** _deploy on Streamlit Community Cloud and paste the URL here._
-**API docs:** `<live-url>/docs` (interactive OpenAPI/Swagger)
-**Demo video:** `demo/demo.mp4`
+**▶️ Live app:** https://resume-analyser-rnnelecskssselehhqkshp.streamlit.app/
+
+The FastAPI backend (with interactive OpenAPI docs at `/docs`) runs locally — see
+[Run the API](#run-the-api-fastapi). Demo video: `demo/demo.mp4`.
 
 ## Screenshots
 
