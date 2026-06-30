@@ -13,7 +13,7 @@ exact resume lines, so nothing is hallucinated.
 **▶️ Live app:** https://resume-analyser-rnnelecskssselehhqkshp.streamlit.app/
 
 The FastAPI backend (with interactive OpenAPI docs at `/docs`) runs locally — see
-[Run the API](#run-the-api-fastapi). Demo video: `demo/demo.mp4`.
+[Run the API](#run-the-api-fastapi).
 
 ## Screenshots
 
