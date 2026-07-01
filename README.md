@@ -11,6 +11,8 @@ exact resume lines, so nothing is hallucinated.
 ## Live demo
 
 **▶️ Live app:** https://resume-analyser-rnnelecskssselehhqkshp.streamlit.app/
+(free-tier hosting — if it shows "app went to sleep," click "Yes, get this app
+back up," it wakes in under a minute)
 
 The FastAPI backend (with interactive OpenAPI docs at `/docs`) runs locally — see
 [Run the API](#run-the-api-fastapi).
